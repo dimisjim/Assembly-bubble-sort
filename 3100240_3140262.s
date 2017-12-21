@@ -1,5 +1,4 @@
-# Authors: Dimitris Moraitidis, 3100240
-#	   Rafaella G. Gazepidou, 3140262
+
 # Date: 20/12/2017
 # A linked list implementation, sorted with the bubble sort algorithm. 
 
